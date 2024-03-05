@@ -1,8 +1,9 @@
-# React + Vite
+# 3-Column Preview Card Component
+This project is a Frontend Mentor challenge project that utilizes HTML and CSS to create a 3 column preview card component, which consists of three different types of cars: Sedans, SUVs, and Luxury. Each column contains an image, title, description, and a learn more button.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## View Site
+Link: https://deep-git.github.io/qr-code/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Utilized
+- HTML
+- CSS
